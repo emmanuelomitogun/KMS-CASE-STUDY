@@ -7,8 +7,8 @@
 
 - [Executive Summary](#executive-summary)
 - [Company Background and Business Context](#company-background-and-business-context)
-- [🧠 Methodology & Data Analysis Framework](#-methodology--data-analysis-framework)
-- [📥 Downloads & Project Assets](#-downloads--project-assets)
+- [ Methodology & Data Analysis Framework](#-methodology--data-analysis-framework)
+- [ Downloads & Project Assets](#-downloads--project-assets)
 - [Case Scenario I: Sales Performance and Logistics Analysis](#case-scenario-i-sales-performance-and-logistics-analysis)
 - [Case Scenario II: Customer Analytics and Return Management](#case-scenario-ii-customer-analytics-and-return-management)
 - [Strategic Recommendations and Implementation Framework](#strategic-recommendations-and-implementation-framework)
