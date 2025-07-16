@@ -27,17 +27,53 @@ Senior management commissioned this analysis to identify root causes of performa
 
 ---
 
-## Methodology and Data Analysis Framework
+## 🧠 Methodology & Data Analysis Framework
 
-This analysis employs advanced SQL querying techniques to examine transactional data spanning 2009-2012. The dataset encompasses:
+This case study investigates the operations of **Kultra Mega Stores (KMS)** from 2009 to 2012 using real-world retail data. The analysis was driven by SQL and complemented by data visualization in Power BI. Our goal wasn’t just to crunch numbers, but to pull out insights KMS could genuinely act on — the kind that sharpens inventory decisions, improves logistics, and keeps the right customers coming back.
 
-- **Order Management**: Transaction records, order priorities, and fulfillment timelines
-- **Customer Analytics**: Segmentation analysis, purchasing patterns, and lifetime value calculations
-- **Product Performance**: Category analysis, profitability assessment, and inventory turnover
-- **Logistics Evaluation**: Shipping methods, cost analysis, and delivery performance
-- **Returns Management**: Customer return patterns and associated segment analysis
+We approached the analysis through five key business lenses:
 
-Each business question was addressed through structured SQL queries designed to extract meaningful insights while maintaining data integrity and analytical rigor.
+---
+
+### 📦 1. Order Management  
+We broke down thousands of historical transactions to uncover trends in order priorities, volume, and timing. This helped us understand how efficiently orders were processed — and where delays or bottlenecks might be costing the business.
+
+---
+
+### 🧍‍♂️ 2. Customer Analytics  
+Using segmentation (Consumer, Corporate, Small Business), we explored who buys the most, who returns the most, and who’s driving profit quietly in the background. The data helped us spotlight VIPs — and also those customers who might be draining value.
+
+---
+
+### 📊 3. Product Performance  
+We evaluated performance at the category and sub-category levels — measuring sales, profit, and popularity. This gave KMS clarity on which products are worth doubling down on, and which ones might need rethinking or retiring.
+
+---
+
+### 🚚 4. Logistics & Shipping Strategy  
+By comparing shipping methods (Express Air, Delivery Truck, etc.) against order priorities, we checked if costlier shipping was being used where it made sense — and flagged cases where it wasn’t. It's a window into operational discipline and overspending risks.
+
+---
+
+### 🔁 5. Returns Management  
+Returns are often ignored — but they tell the truth. By linking in the `Order_Status` dataset, we identified customers who returned items and analyzed what segments they belonged to. The insights here could drive better follow-up, clearer expectations, or changes to how certain products are pitched.
+
+---
+
+## 📥 Downloads & Project Assets
+
+You can explore all files used in this analysis right here in the repo:
+
+| File | Description |
+|------|-------------|
+| [`📄 KMS_SQL_Insights_Report.sql`](./scripts/KMS_SQL_Insights_Report.sql) | Every SQL query used, written clearly with insight-driven commentary. Clean, reusable, and easy to follow. |
+| [`📊 KMS_Inventory_PowerBI_Dashboard.pbix`](./dashboard/KMS_Inventory_PowerBI_Dashboard.pbix) | A fully interactive Power BI dashboard that visualizes the insights from SQL. |
+| [`📂 KMS_Case_Study_Original.xlsx`](./data/raw/KMS_Case_Study_Original.xlsx) | The complete raw dataset — includes orders and return status. |
+
+---
+
+> This project is more than just code or charts — it’s built to reflect how a real business analyst works: using data to influence action. Every file here plays a role in that story.
+
 
 ---
 
