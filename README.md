@@ -72,38 +72,38 @@ We used five analytical lenses:
 
 ## 📈 Case Scenario I: Sales & Logistics Performance
 
-### 1. 📦 Category Sales Performance  
+### 1. Category Sales Performance  
 Technology products led the charge, accounting for over ₦5.9M — nearly half of all revenue. But relying so heavily on one product class introduces risk. We recommended diversifying revenue through bundled offers and category cross-selling.
 
-### 2. 🗺️ Regional Disparities  
+### 2.  Regional Disparities  
 Top regions like Ontario outperformed weak zones like Nunavut and Yukon. These gaps suggest market misalignment or underinvestment. We flagged specific areas for targeted expansion.
 
-### 3. 🧯 Underperforming Product Lines in Strong Regions  
+### 3.  Underperforming Product Lines in Strong Regions  
 Despite Ontario's strong performance, appliance sales lagged badly there. A classic case of product-market mismatch. It’s not just about volume—it’s about *relevance*.
 
-### 4. 👤 Untapped Customer Value  
+### 4.  Untapped Customer Value  
 The bottom 10 customers were quiet — one-time buyers with low order value. We recommended personalized outreach and loyalty nudges to pull them into deeper engagement.
 
-### 5. 🚚 Shipping Costs Out of Control  
+### 5.  Shipping Costs Out of Control  
 Delivery trucks, meant to be cheap, ended up being the most expensive method. Express Air was often used for low-priority orders. We flagged this as a cost leak and proposed automated shipping-tier logic.
 
 ---
 
 ## 👥 Case Scenario II: Customer Insights & Return Behavior
 
-### 6. 🏆 High-Value Customers Deserve VIP Treatment  
+### 6.  High-Value Customers Deserve VIP Treatment  
 A handful of customers consistently purchased large volumes, often in high-margin categories. We recommended creating a VIP program with early product access and priority support.
 
-### 7. 💼 Small Business = Big Potential  
+### 7.  Small Business = Big Potential  
 One small business customer outperformed many corporates. It broke assumptions and revealed an opportunity: with the right package, small businesses could become power users.
 
-### 8. 🔁 Corporate Loyalty, Done Right  
+### 8.  Corporate Loyalty, Done Right  
 High-frequency orders from a few corporate clients pointed to automation potential. A subscription model or auto-replenishment service could reduce friction and boost retention.
 
-### 9. 💡 Profit-Optimized Consumer Behavior  
+### 9.  Profit-Optimized Consumer Behavior  
 The most profitable consumer didn’t just buy a lot — they bought smart. Studying their behavior could help craft smarter product recommendations for others.
 
-### 10. 📉 Return Risks  
+### 10.  Return Risks  
 Consumers returned products most frequently. Quality? Mismatched expectations? We recommended surveying return reasons, improving descriptions, and flagging products with higher return rates.
 
 ---
@@ -116,39 +116,39 @@ The goal isn’t just to do more — it’s to do the right things in the right 
 
 ### ✅ Phase 1: Quick Wins (0–3 Months)
 
-**🔁 Automate Shipping Logic**  
+**Automate Shipping Logic**  
 Fix the mismatch between shipping method and order type. We’re using Express Air for low-priority orders — a costly mistake. Automate smarter rules.
 
-**🛍️ Reactivate Dormant Customers**  
+**Reactivate Dormant Customers**  
 Some customers bought once and vanished. A few personalized nudges and discounts can bring them back into the funnel.
 
-**📉 Improve Returns Visibility**  
+**Improve Returns Visibility**  
 We don’t know *why* customers return products. Add return reasons, gather feedback, and pinpoint issues faster.
 
 ---
 
 ### 🚧 Phase 2: Foundational Growth (3–12 Months)
 
-**🏆 Build Loyalty Programs for High-Value Customers**  
+**Build Loyalty Programs for High-Value Customers**  
 The top 5–10 customers bring in a large share of profit. Treat them like royalty: offer perks, early access, and account management.
 
-**🌍 Expand into Underserved Regions**  
+**Expand into Underserved Regions**  
 Yukon, Nunavut, and others show low sales. Is it market disinterest or poor reach? Test localized strategies and find out.
 
-**📦 Empower Small Businesses**  
+**Empower Small Businesses**  
 One small biz outperformed corporates. Build out offerings for this segment: flexible credit, bundles, and better support.
 
 ---
 
 ### 🚀 Phase 3: Long-Term Strategy (12+ Months)
 
-**💡 Diversify Beyond Technology**  
+**Diversify Beyond Technology**  
 Tech brings half the revenue. Great — but risky. Grow other categories and balance the revenue mix.
 
-**⚙️ Invest in Smart Logistics Tools**  
+**Invest in Smart Logistics Tools**  
 Shipping decisions are still manual. Introduce intelligent systems that optimize cost, priority, and routes.
 
-**📈 Build a Customer Lifetime Value Engine**  
+**Build a Customer Lifetime Value Engine**  
 Track CLV across segments. Know who to invest in, who to win back, and how to grow smartly — not randomly.
 
 ---
