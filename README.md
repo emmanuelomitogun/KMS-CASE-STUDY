@@ -3,6 +3,20 @@
 
 ---
 
+## 📚 Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Company Background and Business Context](#company-background-and-business-context)
+- [🧠 Methodology & Data Analysis Framework](#-methodology--data-analysis-framework)
+- [📥 Downloads & Project Assets](#-downloads--project-assets)
+- [Case Scenario I: Sales Performance and Logistics Analysis](#case-scenario-i-sales-performance-and-logistics-analysis)
+- [Case Scenario II: Customer Analytics and Return Management](#case-scenario-ii-customer-analytics-and-return-management)
+- [Strategic Recommendations and Implementation Framework](#strategic-recommendations-and-implementation-framework)
+- [Conclusion](#conclusion)
+- [Appendices](#appendices)
+
+---
+
 ## Executive Summary
 
 In an increasingly competitive retail landscape, the ability to extract actionable insights from transactional data distinguishes market leaders from followers. This comprehensive analysis of Kultra Mega Stores' Abuja division reveals critical performance patterns that demand immediate strategic attention.
