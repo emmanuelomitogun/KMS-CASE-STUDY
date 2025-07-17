@@ -64,8 +64,8 @@ We used five analytical lenses:
 
 | File                                                                             | Description                                       |
 | -------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [`📄 KMS_SQL_Insights_Report.sql`](./scripts/KMS_SQL_Insights_Report.sql)        | All queries used, with comments and insight notes |
-| [`📊 Power BI Dashboard.pbix`](./dashboard/KMS_Inventory_PowerBI_Dashboard.pbix) | The interactive dashboard for exploring insights  |
+| [`📄 KMS_SQL_Insights_Report.sql`](./scripts/kms_sql_case_study_real.sql)        | All queries used, with comments and insight notes |
+| [`📊 Power BI Dashboard.pbix`](./"https://app.powerbi.com/view?r=eyJrIjoiYjhhNzExMzEtZTYwYi00OTk2LWFiMTQtYTFmMGViY2EwZWRmIiwidCI6IjY5MzhjMjVlLTYwZGEtNDc5YS05ODYzLTBkYzMwNTE2MTY2YSJ9" frameborder="0" allowFullScreen="true"></iframe>) | The interactive dashboard for exploring insights  |
 | [`📂 Raw Dataset`](./data/raw/KMS_Case_Study_Original.xlsx)                      | Full original dataset, cleaned and analyzed       |
 
 ---
