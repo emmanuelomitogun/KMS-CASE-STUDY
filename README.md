@@ -4,17 +4,22 @@
 
 ---
 
-## 📌 Table of Contents
+# Table of Contents
 
-* [Executive Summary](#-executive-summary)
-* [Company Background & Business Context](#-company-background--business-context)
-* [Methodology & Analytical Approach](#-methodology--analytical-approach)
-* [Project Files & Downloads](#-project-files--downloads)
-* [Case Scenario I: Sales & Logistics Performance](#-case-scenario-i-sales--logistics-performance)
-* [Case Scenario II: Customer Insights & Return Behavior](#-case-scenario-ii-customer-insights--return-behavior)
-* [Strategic Recommendations](#-strategic-recommendations)
-* [Final Thoughts](#-final-thoughts)
-* [Appendices](#-appendices)
+- [Executive Summary](#executive-summary)
+- [Business Context & Strategic Rationale](#business-context--strategic-rationale)
+- [Customer Performance & Segmentation Insights](#customer-performance--segmentation-insights)
+- [Geographic Market Performance](#geographic-market-performance)
+- [Product Portfolio & Category Performance](#product-portfolio--category-performance)
+- [Operational Efficiency & Logistics Analysis](#operational-efficiency--logistics-analysis)
+- [Returns Analysis & Quality Assessment](#returns-analysis--quality-assessment)
+- [Financial Performance Trends & Seasonality](#financial-performance-trends--seasonality)
+- [Strategic Recommendations & Implementation Roadmap](#strategic-recommendations--implementation-roadmap)
+- [Project Value & Business Impact](#project-value--business-impact)
+- [Conclusion](#conclusion)
+- [Project Deliverables](#project-deliverables)
+- [Project Files & Downloads](#-project-files--downloads)
+
 
 ---
 
