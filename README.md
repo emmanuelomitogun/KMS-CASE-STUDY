@@ -64,9 +64,9 @@ We used five analytical lenses:
 
 | File                                                                             | Description                                       |
 | -------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [`📄 KMS_SQL_Insights_Report.sql`](./scripts/kms_sql_case_study_real.sql)        | All queries used, with comments and insight notes |
-| [`📊 Power BI Dashboard.pbix`](./"https://app.powerbi.com/view?r=eyJrIjoiYjhhNzExMzEtZTYwYi00OTk2LWFiMTQtYTFmMGViY2EwZWRmIiwidCI6IjY5MzhjMjVlLTYwZGEtNDc5YS05ODYzLTBkYzMwNTE2MTY2YSJ9" frameborder="0" allowFullScreen="true"></iframe>) | The interactive dashboard for exploring insights  |
-| [`📂 Raw Dataset`](./data/raw/KMS_Case_Study_Original.xlsx)                      | Full original dataset, cleaned and analyzed       |
+[`📄 KMS_SQL_Insights_Report.sql`](./scripts/kms_sql_case_study_real.sql)        | All queries used, with comments and insight notes |
+👉 [View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjhhNzExMzEtZTYwYi00OTk2LWFiMTQtYTFmMGViY2EwZWRmIiwidCI6IjY5MzhjMjVlLTYwZGEtNDc5YS05ODYzLTBkYzMwNTE2MTY2YSJ9) | Explore key business insights through our fully interactive Power BI dashboard.|
+| [📂 Raw Dataset](./data/raw/KMS%20SQL%20CASE%20STUDY%202.xlsx)                      | Full original dataset, cleaned and analyzed       |
 
 ---
 
