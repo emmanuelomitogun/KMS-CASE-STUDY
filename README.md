@@ -165,7 +165,16 @@ Detailed sub-category analysis reveals significant profit margin variations:
 
 
 ### Product Strategy Implications
-The identification of **negative-margin products** including Bookcases (-4.08%) and Tables (-5.22%) represents immediate profit improvement opportunities worth approximately **$132,000 annually** through pricing optimization or product discontinuation.
+
+The company’s revenue is driven mostly by **Technology products**, bringing in **over \$6 million (40.2% of total revenue)** with healthy profit margins. This makes Technology the most valuable category for driving growth and future investment.
+
+However, **Furniture**, the second-largest category at **\$5 million+ (33.5%)**, includes loss-making sub-categories like **Tables** (–\$99K profit, –5.2% margin) and **Bookcases** (–\$33K, –4.1%). These are hurting overall profits despite strong sales.
+
+In contrast, **high-margin items** such as **Binders** (30.05% margin), **Envelopes** (27.68%), and **Telecommunication products** (16.78%) are standout performers and present a great opportunity for profit-focused marketing, upselling, and bundling.
+
+> ✅ **Business Strategy Recommendation:**
+> Shift focus toward promoting high-margin sub-categories and reevaluate pricing, sourcing, or discontinuation of low-margin furniture items to improve profitability without sacrificing revenue volume.
+
 
 ---
 
@@ -175,19 +184,43 @@ The identification of **negative-margin products** including Bookcases (-4.08%) 
 The shipping analysis reveals significant cost optimization opportunities:
 
 **Shipping Method Cost Analysis:**
-- **Delivery Truck**: $45.35 average cost per shipment (1,146 orders)
-- **Express Air**: $7.99 average cost per shipment (983 orders)
-- **Regular Air**: $7.66 average cost per shipment (6,270 orders)
+
+| Shipping Method | Average Cost per Shipment | Number of Orders |
+|------------------|----------------------------|------------------|
+| Delivery Truck   | $45.35                     | 1,146            |
+| Express Air      | $7.99                      | 983              |
+| Regular Air      | $7.66                      | 6,270            |
+
 
 ### Shipping Priority Distribution
-Order priority analysis across shipping methods:
-- **Critical Orders**: 1,608 across all shipping methods
-- **High Priority**: 1,768 orders
-- **Medium Priority**: 1,631 orders
-- **Low Priority**: 1,720 orders
+Order priority analysis across shipping methods
+
+| Order Priority   | Delivery Truck | Express Air | Regular Air | Total Orders |
+|------------------|----------------|--------------|--------------|---------------|
+| Critical         | 228            | 200          | 1,180        | 1,608         |
+| High             | 248            | 212          | 1,308        | 1,768         |
+| Medium           | 205            | 201          | 1,225        | 1,631         |
+| Low              | 250            | 190          | 1,280        | 1,720         |
+| Not Specified    | 215            | 180          | 1,277        | 1,672         |
+
 
 ### Logistics Efficiency Findings
-The **473% cost differential** between Delivery Truck ($45.35) and Express Air ($7.99) indicates suboptimal shipping method selection. Despite Regular Air being the most cost-effective option (74.6% utilization), Delivery Truck maintains high usage, suggesting potential annual cost savings of **$427,000** through improved shipping logic.
+
+**Shipping Method Strategy – Business Analysis**
+
+While **Regular Air** clearly dominates the shipping landscape with **6,270 orders** (nearly 75% of total shipments) and handles the majority of both **critical** and **high-priority** deliveries, the continued use of **Delivery Truck** and **Express Air** isn't just justified—it's strategically essential for maintaining operational flexibility and market coverage.
+
+**Why This Multi-Modal Approach Makes Business Sense:**
+
+**Geographic Accessibility:** Some destinations, particularly in rural or remote regions, simply aren't accessible by air. **Delivery Truck** becomes the only viable option for these areas, making it indispensable despite its higher average cost of $45.35 per order. This isn't inefficiency—it's market coverage.
+
+**Speed and Route Optimization:** **Express Air** provides a faster alternative when urgency is paramount and flight routes align favorably. At a marginally higher cost, it's particularly valuable for **critical or high-priority orders** in areas with established express air logistics networks.
+
+**Product-Specific Requirements:** Certain product categories—whether due to size, weight, fragility, or regulatory constraints—are better suited for ground transport. This operational necessity reinforces the strategic value of maintaining truck-based shipping capabilities.
+
+**Risk Management:** Operating multiple shipping methods creates operational resilience. When Regular Air faces delays, weather disruptions, or capacity constraints, the business can pivot to alternative methods to maintain delivery commitments and preserve customer satisfaction.
+
+**Strategic Takeaway:** Regular Air serves as the operational backbone, but **Delivery Truck** and **Express Air** fulfill **targeted, high-value roles**—ensuring comprehensive market reach, supporting critical delivery requirements, and maintaining operational agility. The strategy isn't driven by cost optimization alone, but by the need for **customer accessibility, service reliability, and logistics intelligence.**
 
 ---
 
