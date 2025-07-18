@@ -67,24 +67,32 @@ This business intelligence initiative employed a multi-dimensional analytical fr
 ### Customer Distribution Analysis
 The Abuja division serves a balanced customer portfolio with strategic implications for growth:
 
-**Customer Segment Composition:**
-- **Corporate Sector**: 3,075 orders (36.62%) - Primary revenue driver
-- **Home Office**: 2,031 orders (24.19%) - Growing market segment
-- **Small Business**: 1,649 orders (19.63%) - High-value opportunity
-- **Consumer**: 1,642 orders (19.55%) - Individual purchasers
+###  Customer Segment Composition
+
+| **Customer Segment** | **Total Orders** | **Percentage of Total Orders** | **Remarks**                   |
+|----------------------|------------------|-------------------------------|-------------------------------|
+| Corporate            | 3,076            | 36.62%                        | Primary revenue driver        |
+| Home Office          | 2,032            | 24.19%                        | Growing market segment        |
+| Small Business       | 1,642            | 19.55%                        | High-value opportunity        |
+| Consumer             | 1,649            | 19.63%                        | Individual purchasers         |
+| **Total**            | **8,399**        | **100%**                      |                               |
+
 
 ### High-Value Customer Analysis
 The top-performing customers reveal significant concentration of profitability:
 
-**Top 5 Customers by Profit Contribution:**
-1. **Emily Phan** (Consumer, Atlantic Region): $101,022.84 sales, $28,059.91 profit (27.8% margin)
-2. **Grant Carroll** (Small Business, Northwest Territories): $54,368.91 sales, $20,877.44 profit (38.4% margin)
-3. **Karen Carlisle** (Corporate, West Region): $47,445.57 sales, $19,439.52 profit (41.0% margin)
-4. **Liz MacKendrick** (Corporate, Atlantic Region): $67,285.13 sales, $18,960.63 profit (28.2% margin)
-5. **John Stevenson** (Small Business, Quebec): $48,660.87 sales, $18,849.93 profit (38.7% margin)
+###  Top 5 Customers by Profit Contribution
+
+| **Customer Name**     | **Segment**      | **Region**            | **Sales**        | **Profit**       | **Profit Margin** |
+|-----------------------|------------------|------------------------|------------------|------------------|-------------------|
+| Emily Phan            | Consumer         | Atlantic               | $101,022.84      | $28,059.91       | 27.8%             |
+| Grant Carroll         | Small Business   | Northwest Territories  | $54,368.91       | $20,877.44       | 38.4%             |
+| Karen Carlisle        | Corporate        | West                   | $47,445.57       | $19,439.52       | 41.0%             |
+| Liz MacKendrick       | Corporate        | Atlantic               | $67,285.13       | $18,960.63       | 28.2%             |
+| John Stevenson        | Small Business   | Quebec                 | $48,660.87       | $18,849.93       | 38.7%             |
 
 ### Strategic Customer Insights
-The analysis reveals that **Small Business customers demonstrate superior profit efficiency**, with two of the top five profitable customers representing this segment despite comprising only 19.63% of the customer base. This finding suggests significant untapped potential in small business market development.
+Despite Corporate customers making up the largest portion of orders (36.6%), the most profitable individual customers come from diverse segments—including Consumer and Small Business. Notably, Emily Phan (Consumer) alone generated over $28K in profit, while Small Business customers like Grant Carroll and John Stevenson delivered some of the highest profit margins (above 38%). This suggests that while Corporate drives volume, profitability is more evenly distributed, emphasizing the need for segment-specific growth strategies—especially toward high-margin Small Business clients.
 
 ---
 
@@ -94,18 +102,31 @@ The analysis reveals that **Small Business customers demonstrate superior profit
 The geographic analysis reveals substantial market concentration and expansion opportunities:
 
 **Top Performing Regions:**
-- **West Region**: $3,597,549.28 (24.1% of total revenue) - 1,991 orders, 8.26% profit margin
-- **Ontario**: $3,063,212.48 (20.5% of total revenue) - 1,826 orders, 11.32% profit margin
-- **Quebec**: $1,510,195.08 (10.1% of total revenue) - 781 orders, 9.30% profit margin
-- **Atlantic**: $2,014,248.20 (13.5% of total revenue) - 1,080 orders, 11.86% profit margin
+
+| Region       | Revenue        | % of Total Revenue | Total Orders | Profit Margin |
+|--------------|----------------|---------------------|--------------|----------------|
+| **West**     | $3,597,549.28  | 24.1%               | 1,991        | 8.26%          |
+| **Ontario**  | $3,063,212.48  | 20.5%               | 1,826        | 11.32%         |
+| **Atlantic** | $2,014,248.20  | 13.5%               | 1,080        | 11.86%         |
+| **Quebec**   | $1,510,195.08  | 10.1%               | 781          | 9.30%          |
+
 
 **Underperforming Markets:**
-- **Northwest Territories**: $800,847.33 (5.4% of revenue) - 394 orders, 12.57% profit margin
-- **Yukon**: $975,867.37 (6.5% of revenue) - 542 orders, 7.57% profit margin
-- **Nunavut**: $116,376.48 (0.8% of revenue) - 79 orders, 2.44% profit margin
+
+| Region                 | Revenue        | % of Total Revenue | Total Orders | Profit Margin |
+|------------------------|----------------|---------------------|--------------|----------------|
+| **Yukon**              | $975,867.37    | 6.5%                | 542          | 7.57%          |
+| **Northwest Territories** | $800,847.33 | 5.4%                | 394          | 12.57%         |
+| **Nunavut**            | $116,376.48    | 0.8%                | 79           | 2.44%          |
+
 
 ### Geographic Strategy Implications
-The **340% performance variation** between top and bottom-performing regions indicates significant market penetration opportunities. Ontario's combination of high volume (1,826 orders) and strong profit margins (11.32%) establishes operational benchmarks for underperforming territories.
+The geographic distribution reveals significant market concentration and operational efficiency disparities that require strategic attention.
+Revenue Concentration Analysis
+Three regions—West, Ontario, and Atlantic—generate 58.1% of total revenue, creating both competitive strength and concentration risk. West leads in absolute revenue ($3.6M) and order volume (1,991), while Atlantic demonstrates superior operational efficiency with 11.86% margins despite generating only 13.5% of total revenue. Ontario maintains strong performance across both metrics, contributing $3.1M with healthy 11.32% margins.
+Quebec's performance indicates suboptimal market penetration, delivering only 10.1% of revenue with margins below the top-tier regions at 9.30%.
+Territorial Market Dynamics
+The northern territories present a mixed performance profile. Northwest Territories achieves the highest profit margin at 12.57% despite contributing only 5.4% of revenue, suggesting either premium pricing capability or exceptional operational efficiency. Yukon generates moderate revenue ($976K) with acceptable margins (7.57%), while Nunavut shows concerning performance with minimal revenue contribution (0.8%) and critically low margins (2.44%).
 
 ---
 
@@ -115,22 +136,33 @@ The **340% performance variation** between top and bottom-performing regions ind
 The product portfolio demonstrates clear category leadership with strategic implications:
 
 **Category Performance:**
-- **Technology**: $6M+ (40.2% of total revenue) - Dominant category with strong margins
-- **Furniture**: $5M+ (33.5% of total revenue) - Second largest with mixed profitability
-- **Office Supplies**: $4M+ (26.8% of total revenue) - Consistent performer
+
+| Category         | Revenue        | Revenue Share | Key Insight                         |
+|------------------|----------------|----------------|--------------------------------------|
+| Technology       | $6M+           | 40.2%          | Dominant category with strong margins |
+| Furniture        | $5M+           | 33.5%          | Second largest with mixed profitability |
+| Office Supplies  | $4M+           | 26.8%          | Consistent performer                 |
 
 ### Sub-Category Profitability Analysis
 Detailed sub-category analysis reveals significant profit margin variations:
 
 **High-Margin Sub-Categories:**
-- **Binders and Binder Accessories**: $1,022,957.59 sales, $307,413.39 profit (30.05% margin)
-- **Envelopes**: $174,085.80 sales, $48,182.60 profit (27.68% margin)
-- **Telephones and Communication**: $1,889,313.80 sales, $316,951.62 profit (16.78% margin)
+
+| Sub-Category                  | Sales            | Profit           | Profit Margin |
+|------------------------------|------------------|------------------|----------------|
+| Binders and Accessories      | $1,022,957.59     | $307,413.39      | 30.05%         |
+| Envelopes                    | $174,085.80       | $48,182.60       | 27.68%         |
+| Telephones & Communication   | $1,889,313.80     | $316,951.62      | 16.78%         |
+
 
 **Underperforming Sub-Categories:**
-- **Bookcases**: $822,652.04 sales, -$33,582.13 profit (-4.08% margin)
-- **Tables**: $1,896,008.14 sales, -$99,062.50 profit (-5.22% margin)
-- **Rubber Bands**: $15,006.63 sales, -$102.67 profit (-0.68% margin)
+
+| Sub-Category    | Sales            | Profit           | Profit Margin |
+|----------------|------------------|------------------|----------------|
+| Bookcases      | $822,652.04      | -$33,582.13      | -4.08%         |
+| Tables         | $1,896,008.14     | -$99,062.50      | -5.22%         |
+| Rubber Bands   | $15,006.63        | -$102.67         | -0.68%         |
+
 
 ### Product Strategy Implications
 The identification of **negative-margin products** including Bookcases (-4.08%) and Tables (-5.22%) represents immediate profit improvement opportunities worth approximately **$132,000 annually** through pricing optimization or product discontinuation.
@@ -161,23 +193,50 @@ The **473% cost differential** between Delivery Truck ($45.35) and Express Air (
 
 ## Returns Analysis & Quality Assessment
 
-### Return Rate by Product Category
-Product return analysis reveals category-specific quality concerns:
-- **Furniture**: 343 returns (43.86% of total returns) - 18.9% category return rate
-- **Office Supplies**: 196 returns (30.92% of total returns) - 12.7% category return rate
-- **Technology**: 159 returns (25.31% of total returns) - 8.4% category return rate
+### 📦 Return Rate by Product Category
 
-### Return Rate by Customer Segment
-Customer segment return behavior:
-- **Corporate**: 215 returns (37.6% of segment returns) - 7.0% segment return rate
-- **Home Office**: 138 returns (24.1% of segment returns) - 6.8% segment return rate
-- **Small Business**: 121 returns (21.2% of segment returns) - 7.3% segment return rate
-- **Consumer**: 98 returns (17.1% of segment returns) - 6.0% segment return rate
+| **Category**       | **Total Orders** | **Returns (Line Items)** | **Return Rate** |
+|--------------------|------------------|---------------------------|------------------|
+| Furniture          | 1,724            | 169                       | 9.8%             |
+| Office Supplies    | 4,610            | 363                       | 7.9%             |
+| Technology         | 2,065            | 196                       | 9.5%             |
+| **Total**          | **8,399**        | **728**                   | —                |
 
-### Quality Implications
-The **18.9% return rate** in the Furniture category significantly impacts profitability given high unit values and return processing costs. This represents an immediate opportunity for quality improvement initiatives and supplier relationship optimization.
 
 ---
+
+### 👥 Return Rate by Customer Segment
+
+| **Segment**        | **Total Orders** | **Returns (Line Items)** | **Return Rate** |
+|--------------------|------------------|---------------------------|------------------|
+| Consumer           | 1,649            | 98                        | 5.9%             |
+| Corporate          | 3,076            | 215                       | 7.0%             |
+| Home Office        | 2,032            | 138                       | 6.8%             |
+| Small Business     | 1,642            | 121                       | 7.4%             |
+| **Total**          | 8,399        | 572                  | —                |
+
+---
+### Implication
+
+#### 🪑 Product Category Returns
+- **Furniture (9.8%)** and **Technology (9.5%)** show the highest return rates despite smaller order volumes. This flags:
+  - Possible quality issues
+  - High dissatisfaction or mismatch between customer expectations and delivered products
+  - Greater cost impact due to product value and reverse logistics costs
+- **Office Supplies**, despite the highest number of orders, maintain a **lower return rate (7.9%)**, suggesting consistency, standardization, and reliability.
+
+**📌 Strategy:** Prioritize quality control and supplier reviews in Furniture and Technology. Use Office Supplies as a stable category for bundling or promoting repeat purchases.
+
+---
+
+#### 👥 Customer Segment Returns
+- **Small Business (7.4%)** and **Corporate (7.0%)** segments have higher return tendencies, likely due to bulk ordering or stricter procurement standards.
+- **Consumer (5.9%)** has the **lowest return rate**, possibly due to lower order complexity or lower product expectations.
+
+**📌 Strategy:** Strengthen support and post-purchase communication for high-return segments like Corporate and Small Business. Consider loyalty incentives or custom support channels for these high-value groups.
+
+---
+
 
 ## Financial Performance Trends & Seasonality
 
